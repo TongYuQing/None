@@ -1,3 +1,4 @@
+#机器学习编程作业三，仅适用于数据量较小的情况
 from skimage import io,transform
 import glob
 import os
